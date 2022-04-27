@@ -1,6 +1,6 @@
 <div align="center">
     <hr>
     <h1>Aether Aerospace Engineering</h1>
-    <p>We built Rockets.</p>
+    <p>We build Rockets.</p>
     <hr>
 </div>
